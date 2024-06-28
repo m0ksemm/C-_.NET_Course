@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentsCS", "AssignmentsCS\AssignmentsCS.csproj", "{A805FCD5-278E-4056-B88C-0DF36BF186C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignmentsCS", "AssignmentsCS\AssignmentsCS.csproj", "{A805FCD5-278E-4056-B88C-0DF36BF186C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{1B47F345-518A-44DF-973D-3B6847B35850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieCookBook", "CookieCookBook\CookieCookBook.csproj", "{0DA409FD-6577-4715-A584-290AF2FE597F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A805FCD5-278E-4056-B88C-0DF36BF186C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A805FCD5-278E-4056-B88C-0DF36BF186C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A805FCD5-278E-4056-B88C-0DF36BF186C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B47F345-518A-44DF-973D-3B6847B35850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B47F345-518A-44DF-973D-3B6847B35850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B47F345-518A-44DF-973D-3B6847B35850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B47F345-518A-44DF-973D-3B6847B35850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA409FD-6577-4715-A584-290AF2FE597F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA409FD-6577-4715-A584-290AF2FE597F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA409FD-6577-4715-A584-290AF2FE597F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA409FD-6577-4715-A584-290AF2FE597F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
