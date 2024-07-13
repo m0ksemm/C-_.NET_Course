@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\gamedataparser\\model\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\model\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\fileaccess\\fileformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\fileaccess\\fileformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\gamedataparser\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE552163-2774-489F-A70F-B8791A9205F3}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\app\\cookiesrecipesapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\app\\cookiesrecipesapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\fileaccess\\fileformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\fileaccess\\fileformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7196F0C2-321A-4CE4-B467-85B0B2C8A813}|Exception\\Exception.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7196F0C2-321A-4CE4-B467-85B0B2C8A813}|Exception\\Exception.csproj|solutionrelative:exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|c:\\users\\mdche\\onedrive\\desktop\\prog\\c-_.net_course\\assignmentscs\\cookiecookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA409FD-6577-4715-A584-290AF2FE597F}|CookieCookBook\\CookieCookBook.csproj|solutionrelative:cookiecookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,32 +55,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cardamom.cs",
-              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
-              "RelativeDocumentMoniker": "CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
-              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
-              "RelativeToolTip": "CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Model\\VideoGame.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Model\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Model\\VideoGame.cs",
+              "RelativeToolTip": "GameDataParser\\Model\\VideoGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T02:40:33.357Z",
+              "WhenOpened": "2024-07-12T17:31:24.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CookiesRecipesApp.cs",
-              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\App\\CookiesRecipesApp.cs",
-              "RelativeDocumentMoniker": "CookieCookBook\\App\\CookiesRecipesApp.cs",
-              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\App\\CookiesRecipesApp.cs",
-              "RelativeToolTip": "CookieCookBook\\App\\CookiesRecipesApp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Logging\\Logger.cs",
+              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Logging\\Logger.cs",
+              "RelativeToolTip": "GameDataParser\\Logging\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T02:01:44.805Z",
+              "WhenOpened": "2024-07-12T16:32:49.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Program.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Program.cs",
+              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\GameDataParser\\Program.cs",
+              "RelativeToolTip": "GameDataParser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:18:12.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\Exception\\Program.cs",
+              "RelativeToolTip": "Exception\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:21:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cardamom.cs",
+              "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
+              "RelativeDocumentMoniker": "CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
+              "ToolTip": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
+              "RelativeToolTip": "CookieCookBook\\Recipes\\Ingredients\\Cardamom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:40:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FileFormat.cs",
               "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\FileAccess\\FileFormat.cs",
               "RelativeDocumentMoniker": "CookieCookBook\\FileAccess\\FileFormat.cs",
@@ -76,12 +125,11 @@
               "RelativeToolTip": "CookieCookBook\\FileAccess\\FileFormat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:55:58.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T01:55:58.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IStringsRepository.cs",
               "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\DataAccess\\IStringsRepository.cs",
               "RelativeDocumentMoniker": "CookieCookBook\\DataAccess\\IStringsRepository.cs",
@@ -89,8 +137,7 @@
               "RelativeToolTip": "CookieCookBook\\DataAccess\\IStringsRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:50:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T01:50:21.868Z"
             },
             {
               "$type": "Document",
@@ -102,12 +149,11 @@
               "RelativeToolTip": "CookieCookBook\\Recipes\\Ingredients\\Ingredient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T23:55:43.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T23:55:43.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Recipes\\Recipe.cs",
               "RelativeDocumentMoniker": "CookieCookBook\\Recipes\\Recipe.cs",
@@ -115,12 +161,11 @@
               "RelativeToolTip": "CookieCookBook\\Recipes\\Recipe.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAYwAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T23:44:46.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T23:44:46.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mdche\\OneDrive\\Desktop\\Prog\\C-_.NET_Course\\AssignmentsCS\\CookieCookBook\\Program.cs",
               "RelativeDocumentMoniker": "CookieCookBook\\Program.cs",
@@ -128,8 +173,7 @@
               "RelativeToolTip": "CookieCookBook\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T22:09:49.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T22:09:49.606Z"
             }
           ]
         }
